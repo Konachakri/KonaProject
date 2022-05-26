@@ -1,6 +1,2 @@
-Println(kona)
+print(vijay)
 
-
-
-print(monarch)
-msxncjkdfvkjdf
